@@ -1,0 +1,2 @@
+# emorecog
+Emotion recognition project
